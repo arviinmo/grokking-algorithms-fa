@@ -33,7 +33,7 @@ const resourcesItems = [
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: "Socket.IO",
+  title: "الگوریتم گروکینگ | کتاب آموزش الگوریتم",
   tagline: "Dinosaurs are cool",
   url: "https://socket.io",
   baseUrl: "/",
